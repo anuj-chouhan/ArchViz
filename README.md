@@ -27,6 +27,10 @@ The app provides two main navigation modes: First-Person and Drone mode. First-P
 A detailed in-app tutorial is available to help users understand and utilize the app’s features.  
 **[Click here to watch the tutorial online](#)** – no download required.
 
+### Download
+
+**[Download the App](#)** – Try the app for yourself by downloading it from this link!
+
 ### Quick App Overview
 
 - **Promo Video**: Watch this short [promotional video](#) for a quick overview of the app.
@@ -34,9 +38,6 @@ A detailed in-app tutorial is available to help users understand and utilize the
 - **Screenshots**: Below are some visuals from the app in action:
 
   (Add screenshots here with brief captions)
-
-## Download
-You can download the latest version of the project from the [Releases page](https://github.com/yourusername/yourrepository/releases).
 
 ---
 
