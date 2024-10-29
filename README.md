@@ -35,6 +35,9 @@ A detailed in-app tutorial is available to help users understand and utilize the
 
   (Add screenshots here with brief captions)
 
+## Download
+You can download the latest version of the project from the [Releases page](https://github.com/yourusername/yourrepository/releases).
+
 ---
 
 ### Additional Information
